@@ -1,6 +1,6 @@
 # AI_ML_Lab ⚡
 
-Hi! My name is Alberto Valdés and this is the space where I upload differents reviews of Data Science Contents plus code! 💻 🧮
+Hi! My name is Alberto Valdés and this is the space where I upload differents reviews of AI and ML Contents plus code! 💻 🧮
 
 The topics I board are:
 
