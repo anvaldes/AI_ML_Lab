@@ -17,7 +17,7 @@ The topics I board are:
 
 **General Math Algorithms:** Here I do a review for some Math Algorithms.
 
-**Assemblies:** Here I do a implementation to ensambling different regression models.
+**Assemblies:** Here I did a implementation to ensambling different regression models.
 
 
-If you want to contact me feel free of send me a mail to anvaldes@uc.cl. 😄
+If you want to contact me feel free of send me a mail to anvaldes@uc.cl 😄
